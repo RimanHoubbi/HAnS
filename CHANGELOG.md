@@ -8,8 +8,6 @@
 
 ### Added
 - Added a View of the metrics to the project
-- Added RemoveFeature to Actions
-
 ## [0.0.4] - 2024-03-06
 
 ### Added
